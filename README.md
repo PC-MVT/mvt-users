@@ -6,10 +6,10 @@ run with `npm run dev`
 ???
 
 ## Endpoints
-[ ] GET
-[ ] POST
-[ ] UPDATE
-[ ] DELETE
+- [ ] GET
+- [ ] POST
+- [ ] UPDATE
+- [ ] DELETE
 
 ## Database
 ???
